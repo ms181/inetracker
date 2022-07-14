@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d2bccfa.css",
+    "main.js": "/static/js/main.860284ec.js",
+    "static/media/backup.png": "/static/media/backup.d49d148cec809af81405.png",
+    "static/media/image.png": "/static/media/image.3de83196a1b3a21a88d0.png",
+    "static/media/DMSans-Italic.ttf": "/static/media/DMSans-Italic.63d6efd087549c010a69.ttf",
+    "static/media/DMSans-BoldItalic.ttf": "/static/media/DMSans-BoldItalic.0cb57cc03481cd111898.ttf",
+    "static/media/DMSans-MediumItalic.ttf": "/static/media/DMSans-MediumItalic.8395442989e47ed442b0.ttf",
+    "static/media/DMSans-Regular.ttf": "/static/media/DMSans-Regular.067ebd7ed3c947d82dc4.ttf",
+    "static/media/DMSans-Bold.ttf": "/static/media/DMSans-Bold.da49214b2d88abca155c.ttf",
+    "static/media/DMSans-Medium.ttf": "/static/media/DMSans-Medium.f458346900579196593a.ttf",
+    "static/media/expense.png": "/static/media/expense.4243903aecd3a548f558.png",
+    "static/media/delete.png": "/static/media/delete.4d76c23d6b36915370e0.png",
+    "static/media/income.png": "/static/media/income.8c955e610a706f058d28.png",
+    "index.html": "/index.html",
+    "main.6d2bccfa.css.map": "/static/css/main.6d2bccfa.css.map",
+    "main.860284ec.js.map": "/static/js/main.860284ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2bccfa.css",
+    "static/js/main.860284ec.js"
+  ]
+}
